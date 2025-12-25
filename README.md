@@ -260,7 +260,7 @@ public class Main {
                     if (3*X - B - C >= D) {
                         out.print(3);
                     } else {
-                        out.print(4);
+                        out.print(2);
                     }
                 } else {
                     if (X >= D) {
